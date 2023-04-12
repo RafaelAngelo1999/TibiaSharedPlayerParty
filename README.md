@@ -1,4 +1,4 @@
-# AvatarOtimiza
+# TibiaSharedPlayerParty
 
 ![](src/assets/readme/tibia.gif)
 
